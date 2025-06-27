@@ -1,0 +1,1584 @@
+{
+    "intents": [
+        {
+            "tag": "Abdominal Migraine",
+            "patterns": [
+                "feeling drowsy",
+                "unable to eat",
+                "have little energy",
+                "dark shadows under eyes",
+                "be pale"
+            ],
+            "responses": [
+                "According to your symptoms you might have Abdominal Migraine",
+                "I suppose you have Abdominal Migraine",
+                "You have Abdominal Migraine"
+            ]
+        },
+        {
+            "tag": "Abscessed Tooth",
+            "patterns": [
+                "bad taste",
+                "trouble breathing",
+                "gum redness",
+                "sensitivity",
+                "trouble swallowing",
+                "bad odor in mouth"
+            ],
+            "responses": [
+                "I suppose you have Abscessed Tooth",
+                "According to your symptoms you might have Abscessed Tooth",
+                "You have Abscessed Tooth"
+            ]
+        },
+        {
+            "tag": "Absence Seizure",
+            "patterns": [
+                "eyelid fluttering",
+                "finger rubbing",
+                "lip smacking",
+                "sudden stop in motion"
+            ],
+            "responses": [
+                "I suppose you have Absence Seizure",
+                "According to your symptoms you might have Absence Seizure",
+                "You have Absence Seizure"
+            ]
+        },
+        {
+            "tag": "Achalasia",
+            "patterns": [
+                "hurt is belching",
+                "food coming back up into the throat",
+                "heart is burning",
+                "nighttime coughing"
+            ],
+            "responses": [
+                "You have Achalasia",
+                "I suppose you have Achalasia",
+                "According to your symptoms you might have Achalasia"
+            ]
+        },
+        {
+            "tag": "Acne",
+            "patterns": [
+                "face pimples",
+                "blackheads",
+                "pimples",
+                "neck pimples",
+                "shoulder pimples"
+            ],
+            "responses": [
+                "I suppose you have Acne",
+                "According to your symptoms you might have Acne",
+                "You have Acne"
+            ]
+        },
+        {
+            "tag": "Acute Respiratory Distress Syndrome (ARDS)",
+            "patterns": [
+                "blue tinted nails",
+                "blue tinted lips",
+                "low blood pressure",
+                "fast breathing",
+                "fast heartbeat",
+                "exhaustion",
+                "shortness of breath"
+            ],
+            "responses": [
+                "According to your symptoms you are suffering from Acute Respiratory Distress Syndrome (ARDS)",
+                "You have Acute Respiratory Distress Syndrome (ARDS)",
+                "I suppose you have Acute Respiratory Distress Syndrome (ARDS)"
+            ]
+        },
+        {
+            "tag": "Allergies",
+            "patterns": [
+                "coughing",
+                "itchy eyes",
+                "watery eyes",
+                "itchy nose",
+                "sneezing"
+            ],
+            "responses": [
+                "You have Allergies",
+                "I suppose you have Allergies",
+                "According to your symptoms you might have Allergies"
+            ]
+        },
+        {
+            "tag": "Alzheimers",
+            "patterns": [
+                "confusion with time",
+                "forgetful",
+                "poor judgement"
+            ],
+            "responses": [
+                "According to your symptoms you might have Alzheimers",
+                "I suppose you have Alzheimers",
+                "You have Alzheimers"
+            ]
+        },
+        {
+            "tag": "Amenorrhea",
+            "patterns": [
+                "hair loss",
+                "change in vision",
+                "hair growth on face",
+                "pain in pelvic area"
+            ],
+            "responses": [
+                "According to your symptoms you might have Amenorrhea",
+                "I suppose you have Amenorrhea",
+                "You have Amenorrhea"
+            ]
+        },
+        {
+            "tag": "Amyloidosis",
+            "patterns": [
+                "sudden weight loss",
+                "irregular heartbeat",
+                "tongue swelling",
+                "feeling of fullness",
+                "severe weakness",
+                "severe fatigue",
+                "shortness of breath"
+            ],
+            "responses": [
+                "I suppose you have Amyloidosis",
+                "You have Amyloidosis",
+                "According to your symptoms you might have Amyloidosis"
+            ]
+        },
+        {
+            "tag": "Anemia",
+            "patterns": [
+                "pale skin",
+                "fatigue",
+                "weakness",
+                "cold hands",
+                "cold feet",
+                "yellowish skin",
+                "shortness of breath"
+            ],
+            "responses": [
+                "I suppose you have Anemia",
+                "According to your symptoms you are suffering from Anemia",
+                "You have Anemia"
+            ]
+        },
+        {
+            "tag": "Ankylosing Spondylitis",
+            "patterns": [
+                "pain in heels",
+                "weight loss",
+                "pain in lower back",
+                "pain in hips",
+                "heart block",
+                "pain in jaw",
+                "heart failure",
+                "difficulty walking",
+                "loss of appetite",
+                "decreased energy",
+                "stiffness"
+            ],
+            "responses": [
+                "You have Ankylosing Spondylitis",
+                "I suppose you have Ankylosing Spondylitis",
+                "According to your symptoms you might have Ankylosing Spondylitis"
+            ]
+        },
+        {
+            "tag": "Anorexia",
+            "patterns": [
+                "dizziness",
+                "swollen arms",
+                "fainting",
+                "swollen legs",
+                "underweight",
+                "hard to sleep through night",
+                "constipation",
+                "terrifies of gaining weight",
+                "hair is falling out"
+            ],
+            "responses": [
+                "According to your symptoms you might have Anorexia",
+                "You have Anorexia",
+                "I suppose you have Anorexia"
+            ]
+        },
+        {
+            "tag": "Antitrypsin Deficiency",
+            "patterns": [
+                "jaundice",
+                "coughing up blood",
+                "yellow skin",
+                "yellow urine"
+            ],
+            "responses": [
+                "According to your symptoms you might have Antitrypsin Deficiency",
+                "You have Antitrypsin Deficiency",
+                "I suppose you have Antitrypsin Deficiency"
+            ]
+        },
+        {
+            "tag": "Anxiety or Panic Disorder",
+            "patterns": [
+                "shaking",
+                "fast heartbeat",
+                "chest pain",
+                "fear of death",
+                "faintness",
+                "sweating",
+                "rapid heartbeat",
+                "shortness of breath"
+            ],
+            "responses": [
+                "According to your symptoms you might have Anxiety or Panic Disorder",
+                "You have Anxiety or Panic Disorder",
+                "I suppose you have Panic Disorder"
+            ]
+        },
+        {
+            "tag": "Aparaxia of Speech",
+            "patterns": [
+                "unable to form proper words",
+                "speech inconsistencies",
+                "distortion in vowel sounds",
+                "unable to say complex words"
+            ],
+            "responses": [
+                "You have Aparaxia of Speech",
+                "I suppose you have Aparaxia of Speech",
+                "According to your symptoms you might have Aparaxia of Speech"
+            ]
+        },
+        {
+            "tag": "Appendicitis",
+            "patterns": [
+                "pain in lower belly",
+                "pain near navel",
+                "difficulty in peeing",
+                "constipation with gas",
+                "swollen belly",
+                "belly pain and vomiting",
+                "severe cramps"
+            ],
+            "responses": [
+                "According to your symptoms you might have Appendicitis",
+                "You have Appendicitis",
+                "I suppose you have Appendicitis"
+            ]
+        },
+        {
+            "tag": "Arachnoiditis",
+            "patterns": [
+                "weakness in the legs",
+                "numbness in legs",
+                "ringing in ears",
+                "bladder problems"
+            ],
+            "responses": [
+                "You have Arachnoiditis",
+                "I suppose you have Arachnoiditis",
+                "According to your symptoms you are suffering from Arachnoiditis"
+            ]
+        },
+        {
+            "tag": "Arrhythmia",
+            "patterns": [
+                "anxiety",
+                "palpitations",
+                "blurry vision",
+                "breath shortness",
+                "chest pounding"
+            ],
+            "responses": [
+                "I suppose you have Arrhythmia",
+                "According to your symptoms you might have Arrhythmia",
+                "You have Arrhythmia"
+            ]
+        },
+        {
+            "tag": "Arthritis",
+            "patterns": [
+                "sored area",
+                "lack of movement",
+                "joint pain"
+            ],
+            "responses": [
+                "I suppose you have any type of Arthritis",
+                "You have any type of Arthritis",
+                "According to your symptoms you might have any type of Arthritis"
+            ]
+        },
+        {
+            "tag": "Asthma",
+            "patterns": [
+                "pale face",
+                "feeling tired",
+                "coughing at night",
+                "wheezing",
+                "sweaty face",
+                "frequent cough",
+                "easily upset",
+                "chest pain",
+                "trouble in sleeping"
+            ],
+            "responses": [
+                "I suppose you have Asthma",
+                "According to your symptoms you might have Asthma",
+                "You have Asthma"
+            ]
+        },
+        {
+            "tag": "Attention Deficit Disorder (ADHD)",
+            "patterns": [
+                "hyperactivity",
+                "restlessness",
+                "impulsivity",
+                "lack of focus",
+                "messy works"
+            ],
+            "responses": [
+                "You have Attention Deficit Disorder",
+                "I suppose you have Attention Deficit Disorder",
+                "According to your symptoms you might have Attention Deficit Disorder"
+            ]
+        },
+        {
+            "tag": "Autism",
+            "patterns": [
+                "no facial expression",
+                "unusual sleeping habits",
+                "delayed movement",
+                "delayed learning",
+                "unusual mood",
+                "unusual eating habits",
+                "delayed language"
+            ],
+            "responses": [
+                "According to your symptoms you might have Autism",
+                "You have Autism",
+                "I suppose you have Autism"
+            ]
+        },
+        {
+            "tag": "Bacterial Arthritis",
+            "patterns": [
+                "having chills",
+                "unable to move the limb with the infected joint",
+                "Severe pain in the affected joint"
+            ],
+            "responses": [
+                "I suppose you have Backterial Arthritis",
+                "According to your symptoms you might have Bacterial Arthritis",
+                "You have Bacterial Arthritis"
+            ]
+        },
+        {
+            "tag": "Bacterial Meningitis",
+            "patterns": [
+                "feeling confused",
+                "seizures",
+                "neck is stiff",
+                "lack of appetite",
+                "hard time concentrating",
+                "numbness in my face"
+            ],
+            "responses": [
+                "You have Meningitis",
+                "According to your symptoms you might have Bacterial Meningitis",
+                "I suppose you have Meningitis"
+            ]
+        },
+        {
+            "tag": "Benign Prostate Enlargement(BPE)",
+            "patterns": [
+                "makes it difficult o urinate",
+                "need to urinate frequently",
+                "difficulty in passing urine",
+                "wake up frequently in the night to urinate"
+            ],
+            "responses": [
+                "I suppose you have Benign Prostate Enlargement Disease",
+                "According to your symptoms you might have Benign Prostate Enlargement Disease",
+                "You have Benign Prostate Enlargement Disease"
+            ]
+        },
+        {
+            "tag": "Bipolar Disorder",
+            "patterns": [
+                "being delusional",
+                "suicidal thoughts",
+                "being pessimistic about everything",
+                "feeling worthless",
+                "easily irritated",
+                "feeling depressed",
+                "loss of interest",
+                "feeling full of energy",
+                "lacking energy"
+            ],
+            "responses": [
+                "According to your symptoms you might have Bipolar Disorder Disease",
+                "You have Bipolar Disorder Disease",
+                "I suppose you have Bipolar Disorder Disease"
+            ]
+        },
+        {
+            "tag": "Blepharitis",
+            "patterns": [
+                "sensitivity to light",
+                "blurry vision",
+                "red eyes",
+                "a burning feeling in the eye",
+                "feels like something in the eye",
+                "watery eyes",
+                "dry eyes"
+            ],
+            "responses": [
+                "You have Blepharitis",
+                "According to your symptoms you might have Blepharitis",
+                "I suppose you have Blepharitis"
+            ]
+        },
+        {
+            "tag": "Bronchiectasis",
+            "patterns": [
+                "coughing up blood-stained phlegm",
+                "coughing up blood",
+                "persistent cough with large amount of phlegm"
+            ],
+            "responses": [
+                "You have Bronchiectasis Disease",
+                "I suppose you have Bronchiectasis Disease",
+                "According to your symptoms you might have Bronchiectasis Disease"
+            ]
+        },
+        {
+            "tag": "Bronchitis",
+            "patterns": [
+                "cough with yellow gray phlegm",
+                "blocked nose",
+                "runny or blocked nose",
+                "tiredness",
+                "cough with phlegm"
+            ],
+            "responses": [
+                "You have Bronchitis Disease",
+                "I suppose you have Bronchitis Disease",
+                "According to your symptoms you might have Bronchitis Disease"
+            ]
+        },
+        {
+            "tag": "Bulimia",
+            "patterns": [
+                "over eating",
+                "think about food all time",
+                "focus in body image",
+                "overeats"
+            ],
+            "responses": [
+                "According to your symptoms you might have Bulimia Disease",
+                "I suppose you have Bulimia Disease",
+                "You have Bulimia Disease"
+            ]
+        },
+        {
+            "tag": "Catarrh",
+            "patterns": [
+                "reduced sense of taste",
+                "blocked or stuffy nose can't clear",
+                "reduced sense of smell",
+                "temporary hearing loss",
+                "constantly need to clear throat",
+                "throat blocked"
+            ],
+            "responses": [
+                "According to your symptoms you might have Catarrh Disease",
+                "You have Catarrh Disease",
+                "I suppose you have Catarrh Disease"
+            ]
+        },
+        {
+            "tag": "Cellulitis",
+            "patterns": [
+                "red skin",
+                "tender skin",
+                "swollen skin",
+                "hot skin"
+            ],
+            "responses": [
+                "According to your symptoms you might have Cellulitis Disease",
+                "You have Cellulitis Disease",
+                "I suppose you have Cellulitis Disease"
+            ]
+        },
+        {
+            "tag": "Chest Infection",
+            "patterns": [
+                "feeling confused",
+                "chest tightness",
+                "rapid heart beat"
+            ],
+            "responses": [
+                "According to your symptoms you might have Chest Infection",
+                "You have Chest Infection",
+                "I suppose you have Chest Infection"
+            ]
+        },
+        {
+            "tag": "Chest Pain",
+            "patterns": [
+                "pain in chest and arms back and jaw",
+                "chest feels heavy",
+                "breathlessness",
+                "chest feels tight"
+            ],
+            "responses": [
+                "You have Chest Pain",
+                "According to your symptoms you might have Chest Pain",
+                "I suppose you have Chest Pain"
+            ]
+        },
+        {
+            "tag": "Chronic Fatigue Syndrome",
+            "patterns": [
+                "dizziness",
+                "problem with concentration",
+                "problem with thinking",
+                "poor temperature control",
+                "hyper sensitive to light",
+                "language problem",
+                "hyper sensitive to sound",
+                "sleep disturbance",
+                "speech problem"
+            ],
+            "responses": [
+                "You have Chronic Fatigue Syndrome",
+                "According to your symptoms you might have Chronic Fatigue Syndrome",
+                "I suppose you have Chronic Fatigue Syndrome"
+            ]
+        },
+        {
+            "tag": "Common Cold",
+            "patterns": [
+                "coughing",
+                "ear ache",
+                "hoarse voice",
+                "blocked nose",
+                "runny nose",
+                "sore throat",
+                "headache",
+                "sneezing"
+            ],
+            "responses": [
+                "You have Common Cold",
+                "According to your symptoms you might have Common Cold",
+                "I suppose you have Common Cold"
+            ]
+        },
+        {
+            "tag": "Conjunctivitis",
+            "patterns": [
+                "eye redness",
+                "intense red in eyes",
+                "disturbed vision",
+                "burning sensation in eyes",
+                "sticky coating on eye lashes"
+            ],
+            "responses": [
+                "I suppose you have Conjunctivitis",
+                "According to your symptoms you might have Conjunctivitis",
+                "You have Conjunctivitis"
+            ]
+        },
+        {
+            "tag": "Dehydration",
+            "patterns": [
+                "infrequent urine",
+                "dry mouth",
+                "light-headedness",
+                "dry lips",
+                "tiredness"
+            ],
+            "responses": [
+                "You have Dehydration",
+                "According to your symptoms you might have Dehydration",
+                "I suppose you have Dehydration"
+            ]
+        },
+        {
+            "tag": "Dental Abscess",
+            "patterns": [
+                "tooth pain spreads to ear jaw and neck",
+                "intense pain in tooth",
+                "discoloured tooth",
+                "sensitive to hot and cold",
+                "tender tooth",
+                "bad breath",
+                "intense pain in gum"
+            ],
+            "responses": [
+                "You have Dental Abscess",
+                "I suppose you have Dental Abscess",
+                "According to your symptoms you might have Dental Abscess"
+            ]
+        },
+        {
+            "tag": "Depression",
+            "patterns": [
+                "feeling worried",
+                "continuous sadness",
+                "losing interest in things",
+                "feeling guilty",
+                "feeling hopeless",
+                "feeling anxious",
+                "low self esteem",
+                "mood off",
+                "feeling helpless",
+                "speaking slower than usual",
+                "losing motivation"
+            ],
+            "responses": [
+                "According to your symptoms you might have Depression",
+                "You have Depression",
+                "I suppose you have Depression"
+            ]
+        },
+        {
+            "tag": "Diabetes",
+            "patterns": [
+                "feeling very tired",
+                "feeling very thirsty",
+                "wounds heal slowly",
+                "loss of muscle bulk"
+            ],
+            "responses": [
+                "I suppose you have Diabetes",
+                "According to your symptoms you might have Diabetes",
+                "You have Diabetes"
+            ]
+        },
+        {
+            "tag": "Diarrhoea",
+            "patterns": [
+                "pale skin",
+                "feeling drowsy",
+                "rapid heartbeat",
+                "cold hands",
+                "cold feet",
+                "stomach cramps"
+            ],
+            "responses": [
+                "I suppose you have Diarrhoea",
+                "According to your symptoms you might have Diarrhoea",
+                "You have Diarrhoea"
+            ]
+        },
+        {
+            "tag": "Dystonia",
+            "patterns": [
+                "twisted posture",
+                "muscle spasms",
+                "foot turning inwards",
+                "body parts jerking rapidly",
+                "abnormal posture"
+            ],
+            "responses": [
+                "According to your symptoms you might have Dystonia",
+                "I suppose you have Dystonia",
+                "You have Dystonia"
+            ]
+        },
+        {
+            "tag": "Epilepsy",
+            "patterns": [
+                "tingling sensation in arms and legs",
+                "experienced the events before",
+                "unusual smell or taste",
+                "sudden feeling of fear or joy"
+            ],
+            "responses": [
+                "I suppose you have Epilepsy",
+                "According to your symptoms you might have Epilepsy",
+                "You have Epilepsy"
+            ]
+        },
+        {
+            "tag": "Escherichia Coli",
+            "patterns": [
+                "stomach cramps",
+                "occasionally fever",
+                "diarrhoea"
+            ],
+            "responses": [
+                "You have Escherichia Coli",
+                "According to your symptoms you might have Escherichia Coli",
+                "I suppose you have Escherichia Coli"
+            ]
+        },
+        {
+            "tag": "Fetal alcohol spectrum disorder",
+            "patterns": [
+                "hyperactivity",
+                "attention deficiency",
+                "impulsivity",
+                "sensory difficulties"
+            ],
+            "responses": [
+                "I suppose you have Fetal alcohol spectrum disorder",
+                "According to your symptoms you might have Fetal alcohol spectrum disorder",
+                "You have Fetal alcohol spectrum disorder"
+            ]
+        },
+        {
+            "tag": "Flu",
+            "patterns": [
+                "chesty cough",
+                "sudden fever",
+                "aching muscles",
+                "dry cough",
+                "chills",
+                "sore throat"
+            ],
+            "responses": [
+                "According to your symptoms you might have Flu",
+                "You have Flu",
+                "I suppose you have Flu"
+            ]
+        },
+        {
+            "tag": "Food poisoning",
+            "patterns": [
+                "fever",
+                "diarrhoea",
+                "nausea",
+                "vomiting",
+                "aching muscles",
+                "chills",
+                "abdominal pain",
+                "stomach cramps"
+            ],
+            "responses": [
+                "I suppose you have Food poisoning",
+                "According to your symptoms you might have Food poisoning",
+                "You have Food poisoning"
+            ]
+        },
+        {
+            "tag": "Fungal nail infection",
+            "patterns": [
+                "brittle nails",
+                "crumbly nails",
+                "distorted nails",
+                "discolouration of the nail"
+            ],
+            "responses": [
+                "You have Fungal nail infection",
+                "I suppose you have Fungal nail infection",
+                "According to your symptoms you might have Fungal nail infection"
+            ]
+        },
+        {
+            "tag": "Gallbladder cancer",
+            "patterns": [
+                "weight loss",
+                "stomach pain",
+                "swollen stomach",
+                "jaundice",
+                "abdominal pain",
+                "loss of appetite"
+            ],
+            "responses": [
+                "You have Gallbladder cancer",
+                "According to your symptoms you might have Gallbladder cancer",
+                "I suppose you have Gallbladder cancer"
+            ]
+        },
+        {
+            "tag": "Gallstones",
+            "patterns": [
+                "jaundice",
+                "fever",
+                "persistent abdominal pain"
+            ],
+            "responses": [
+                "I suppose you have Gallstones",
+                "According to your symptoms you might have Gallstones",
+                "You have Gallstones"
+            ]
+        },
+        {
+            "tag": "Ganglion cyst",
+            "patterns": [
+                "cysts in wrist",
+                "swelling",
+                "joint pain"
+            ],
+            "responses": [
+                "According to your symptoms you might have Ganglion cyst",
+                "You have Ganglion cyst",
+                "I suppose you have Ganglion cyst"
+            ]
+        },
+        {
+            "tag": "Gastro-oesophageal reflux disease (GORD)",
+            "patterns": [
+                "acid reflux",
+                "belching",
+                "pain when swallowing",
+                "bad breath",
+                "heartburn"
+            ],
+            "responses": [
+                "According to your symptoms you might have Gastro-oesophageal reflux disease (GORD)",
+                "You have Gastro-oesophageal reflux disease (GORD)",
+                "I suppose you have Gastro-oesophageal reflux disease (GORD)"
+            ]
+        },
+        {
+            "tag": "Gastroenteritis",
+            "patterns": [
+                "diarrhoea",
+                "upset stomach",
+                "vomiting",
+                "mild fever",
+                "headache",
+                "aching limbs",
+                "loss of appetite"
+            ],
+            "responses": [
+                "According to your symptoms you might have Gastroenteritis",
+                "You have Gastroenteritis",
+                "I suppose you have Gastroenteritis"
+            ]
+        },
+        {
+            "tag": "Genital herpes",
+            "patterns": [
+                "pain peeing",
+                "blisters",
+                "rectal pain",
+                "swelling in groin",
+                "vaginal discharge",
+                "genital pain"
+            ],
+            "responses": [
+                "You have Genital herpes",
+                "According to your symptoms you might have Genital herpes",
+                "I suppose you have Genital herpes"
+            ]
+        },
+        {
+            "tag": "Genital warts",
+            "patterns": [
+                "lumps around penis",
+                "lumps around genitals",
+                "vaginal outgrowth",
+                "warts"
+            ],
+            "responses": [
+                "I suppose you have Genital warts",
+                "You have Genital warts",
+                "According to your symptoms you might have Genital warts"
+            ]
+        },
+        {
+            "tag": "Germ cell tumours",
+            "patterns": [
+                "lump",
+                "olk-sac tumours"
+            ],
+            "responses": [
+                "I suppose you have Germ cell tumours",
+                "You have Germ cell tumours",
+                "According to your symptoms you might have Germ cell tumours"
+            ]
+        },
+        {
+            "tag": "Glandular fever",
+            "patterns": [
+                "fever",
+                "swollen glands",
+                "sore throat",
+                "fatigue",
+                "extreme tiredness"
+            ],
+            "responses": [
+                "You have Glandular fever",
+                "According to your symptoms you might have Glandular fever",
+                "I suppose you have Glandular fever"
+            ]
+        },
+        {
+            "tag": "Gonorrhoea",
+            "patterns": [
+                "swelling of the testicles",
+                "pain in lower abdomen",
+                "bleeding after sex",
+                "yellow fluid discharge",
+                "increased vaginal discharge",
+                "pain while urinating"
+            ],
+            "responses": [
+                "You have Gonorrhoea",
+                "According to your symptoms you might have Gonorrhoea",
+                "I suppose you have Gonorrhoea"
+            ]
+        },
+        {
+            "tag": "Goodbye",
+            "patterns": [
+                "Bye",
+                "Thank You, Goodbye",
+                "See you",
+                "goodbye"
+            ],
+            "responses": [
+                "Talk to you later!",
+                "Have a Nice day",
+                "GoodBye!",
+                "Thank You to you too"
+            ]
+        },
+        {
+            "tag": "Gout",
+            "patterns": [
+                "tender joints",
+                "shiny skin over joints",
+                "joint pain",
+                "swelling of joints"
+            ],
+            "responses": [
+                "You have Gout",
+                "According to your symptoms you might have Gout",
+                "I suppose you have Gout"
+            ]
+        },
+        {
+            "tag": "Gum disease",
+            "patterns": [
+                "bleeding while brushing",
+                "bleeding in gums",
+                "sore gums",
+                "bad breath",
+                "swelling in gums"
+            ],
+            "responses": [
+                "I suppose you have Gum disease",
+                "You have Gum disease",
+                "According to your symptoms you might have Gum disease"
+            ]
+        },
+        {
+            "tag": "HIV",
+            "patterns": [
+                "fever",
+                "upset stomach",
+                "swollen glands",
+                "rash",
+                "muscle pain",
+                "headache",
+                "joint pain"
+            ],
+            "responses": [
+                "According to your symptoms you might have HIV",
+                "You have HIV",
+                "I suppose you have HIV"
+            ]
+        },
+        {
+            "tag": "Haemorrhoids (piles)",
+            "patterns": [
+                "swelling around anus",
+                "redness around anus",
+                "soreness in anus",
+                "mucus discharge after passing a stool",
+                "itchy bottom",
+                "bleeding after defecating"
+            ],
+            "responses": [
+                "According to your symptoms you might have Haemorrhoids (piles)",
+                "You have Haemorrhoids (piles)",
+                "I suppose you have Haemorrhoids (piles)"
+            ]
+        },
+        {
+            "tag": "Hand, foot and mouth disease",
+            "patterns": [
+                "coughing",
+                "fever",
+                "mouth ulcers",
+                "blisters",
+                "spotty rash",
+                "sore throat",
+                "sore mouth",
+                "abdominal pain",
+                "loss of appetite"
+            ],
+            "responses": [
+                "According to your symptoms you might have Hand, foot and mouth disease",
+                "You have Hand, foot and mouth disease",
+                "I suppose you have Hand, foot and mouth disease"
+            ]
+        },
+        {
+            "tag": "Hay fever",
+            "patterns": [
+                "itchy eyes",
+                "sneezing",
+                "runny nose"
+            ],
+            "responses": [
+                "I suppose you have Hay fever",
+                "According to your symptoms you might have Hay fever",
+                "You have Hay fever"
+            ]
+        },
+        {
+            "tag": "Head and neck cancer",
+            "patterns": [
+                "decreased sense of smell",
+                "lump or swelling in neck",
+                "lump in mouth",
+                "numbness in face",
+                "drooping on one side of face",
+                "persistent mouth ulcers",
+                "a persistent blocked nose",
+                "persistent hoarseness",
+                "a persistent cough",
+                "noisy breathing",
+                "difficulty or pain when swallowing",
+                "hearing loss",
+                "shortness of breath",
+                "nosebleeds"
+            ],
+            "responses": [
+                "I suppose you have Head and neck cancer",
+                "According to your symptoms you might have Head and neck cancer",
+                "You have Head and neck cancer"
+            ]
+        },
+        {
+            "tag": "Head lice and nits",
+            "patterns": [
+                "small white eggs or nits in the hair",
+                "rash on the back of the neck",
+                "itchy scalp"
+            ],
+            "responses": [
+                "According to your symptoms you might have Head lice and nits",
+                "I suppose you have Head lice and nits",
+                "You have Head lice and nits"
+            ]
+        },
+        {
+            "tag": "Headaches",
+            "patterns": [
+                "ncreased sensitivity to light or sound",
+                "nausea",
+                "vomiting",
+                "stress",
+                "dehydration",
+                "blocked or runny nose",
+                "watering or red eye"
+            ],
+            "responses": [
+                "According to your symptoms you might have Headaches",
+                "You have Headaches",
+                "I suppose you have Headaches"
+            ]
+        },
+        {
+            "tag": "Hearing loss",
+            "patterns": [
+                "misunderstanding other people",
+                "difficulty hearing",
+                "asking people to repeat themselves"
+            ],
+            "responses": [
+                "According to your symptoms you might have Hearing loss",
+                "I suppose you have Hearing loss",
+                "You have Hearing loss"
+            ]
+        },
+        {
+            "tag": "Heart failure",
+            "patterns": [
+                "leg swelling",
+                "breathlessness",
+                "tiredness and lethargy",
+                "loss of appetite"
+            ],
+            "responses": [
+                "According to your symptoms you might have Heart failure",
+                "I suppose you have Heart failure",
+                "You have Heart failure"
+            ]
+        },
+        {
+            "tag": "Hepatitis A",
+            "patterns": [
+                "fever",
+                "itchy skin",
+                "joint and muscle pain",
+                "jaundice",
+                "pale stools",
+                "tiredness",
+                "dark urine",
+                "loss of appetite"
+            ],
+            "responses": [
+                "I suppose you have Hepatitis A",
+                "According to your symptoms you might have Hepatitis A",
+                "You have Hepatitis A"
+            ]
+        },
+        {
+            "tag": "Hepatitis B",
+            "patterns": [
+                "fever",
+                "diarrhoea",
+                "flu",
+                "abdominal pain",
+                "tiredness",
+                "loss of appetite"
+            ],
+            "responses": [
+                "I suppose you have Hepatitis B",
+                "According to your symptoms you might have Hepatitis B",
+                "You have Hepatitis B"
+            ]
+        },
+        {
+            "tag": "Hepatitis C",
+            "patterns": [
+                "fever",
+                "flu",
+                "abdominal pain",
+                "tiredness",
+                "loss of appetite",
+                "muscle ache"
+            ],
+            "responses": [
+                "According to your symptoms you might have Hepatitis C",
+                "I suppose you have Hepatitis C",
+                "You have Hepatitis C"
+            ]
+        },
+        {
+            "tag": "Hiatus hernia",
+            "patterns": [
+                "leaking stomach acid",
+                "weak diaphragm",
+                "scarring on stomach",
+                "pressure on abdomen"
+            ],
+            "responses": [
+                "I suppose you have Hiatus hernia",
+                "According to your symptoms you might have Hiatus hernia",
+                "You have Hiatus hernia"
+            ]
+        },
+        {
+            "tag": "High cholesterol",
+            "patterns": [
+                "high blood pressure",
+                "diabetes",
+                "overweight",
+                "heart attack",
+                "stroke"
+            ],
+            "responses": [
+                "I suppose you have High cholesterol",
+                "According to your symptoms you might have High cholesterol",
+                "You have High cholesterol"
+            ]
+        },
+        {
+            "tag": "Huntington's disease",
+            "patterns": [
+                "problem in movement",
+                "problem in cognition",
+                "irritability",
+                "personality changes",
+                "mood swings"
+            ],
+            "responses": [
+                "According to your symptoms you might have Huntington's disease",
+                "I suppose you have Huntington's disease",
+                "fidgety movements",
+                "You have Huntington's disease"
+            ]
+        },
+        {
+            "tag": "Hyperglycaemia (high blood sugar)",
+            "patterns": [
+                "unintentional weight loss",
+                "bladder infections",
+                "skin infection",
+                "thrush",
+                "dry mouth",
+                "tiredness",
+                "increased thirst",
+                "recurrent infections",
+                "blurred vision",
+                "frequent urge to urinate"
+            ],
+            "responses": [
+                "According to your symptoms you might have Hyperglycaemia (high blood sugar)",
+                "I suppose you have Hyperglycaemia (high blood sugar)",
+                "You have Hyperglycaemia (high blood sugar)"
+            ]
+        },
+        {
+            "tag": "Hyperhidrosis",
+            "patterns": [
+                "swelling in palms",
+                "excessive sweating",
+                "swelling in soles",
+                "socially withdrawn",
+                "swelling in groin",
+                "swelling in face and chest",
+                "swelling in armpits"
+            ],
+            "responses": [
+                "You have Hyperhidrosis",
+                "I suppose you have Hyperhidrosis",
+                "According to your symptoms you might have Hyperhidrosis"
+            ]
+        },
+        {
+            "tag": "Hypoglycaemia (low blood sugar)",
+            "patterns": [
+                "trembling",
+                "hunger",
+                "difficulty concentrating",
+                "confused upon waking",
+                "disturbed sleep",
+                "sweating",
+                "shakiness"
+            ],
+            "responses": [
+                "I suppose you have Hypoglycaemia (low blood sugar)",
+                "According to your symptoms you might have Hypoglycaemia (low blood sugar)",
+                "You have Hypoglycaemia (low blood sugar)"
+            ]
+        },
+        {
+            "tag": "Idiopathic pulmonary fibrosis",
+            "patterns": [
+                "swollen fingertips",
+                "clubbed fingers",
+                "persistent dry cough",
+                "tiredness",
+                "loss of appetite",
+                "loss of weight",
+                "shortness of breath"
+            ],
+            "responses": [
+                "You have Idiopathic pulmonary fibrosis",
+                "I suppose you have Idiopathic pulmonary fibrosis",
+                "According to your symptoms you might have Idiopathic pulmonary fibrosis"
+            ]
+        },
+        {
+            "tag": "Impetigo",
+            "patterns": [
+                "red sores around nose",
+                "fever",
+                "swollen glands",
+                "blisters"
+            ],
+            "responses": [
+                "I suppose you have Impetigo",
+                "According to your symptoms you might have Impetigo",
+                "You have Impetigo"
+            ]
+        },
+        {
+            "tag": "Indigestion",
+            "patterns": [
+                "feeling full",
+                "belching",
+                "nausea",
+                "regurgitation",
+                "bloatedness"
+            ],
+            "responses": [
+                "You have Indigestion",
+                "According to your symptoms you might have Indigestion",
+                "I suppose you have Indigestion"
+            ]
+        },
+        {
+            "tag": "Ingrown toenail",
+            "patterns": [
+                "curling of nail",
+                "yellow pus from toe",
+                "inflammation in toe",
+                "oedema"
+            ],
+            "responses": [
+                "According to your symptoms you might have Ingrown toenail",
+                "I suppose you have Ingrown toenail",
+                "You have Ingrown toenail"
+            ]
+        },
+        {
+            "tag": "Inherited heart conditions",
+            "patterns": [
+                "fainting",
+                "palpitations",
+                "blackouts"
+            ],
+            "responses": [
+                "I suppose you have Inherited heart conditions",
+                "According to your symptoms you might have Inherited heart conditions",
+                "You have Inherited heart conditions"
+            ]
+        },
+        {
+            "tag": "Insomnia",
+            "patterns": [
+                "awake for long periods",
+                "not feeling refreshed after waking",
+                "difficulty concentrating",
+                "difficulty in sleeping",
+                "difficulty napping",
+                "irritable"
+            ],
+            "responses": [
+                "According to your symptoms you might have Insomnia",
+                "You have Insomnia",
+                "I suppose you have Insomnia"
+            ]
+        },
+        {
+            "tag": "Iron deficiency anaemia",
+            "patterns": [
+                "hair loss",
+                "pale complexion",
+                "lethargy",
+                "lack of energy",
+                "abnormally smooth tongue",
+                "feeling itchy",
+                "difficulty swallowing",
+                "headache",
+                "tiredness",
+                "heart palpitations",
+                "shortness of breath"
+            ],
+            "responses": [
+                "I suppose you have Iron deficiency anaemia",
+                "According to your symptoms you might have Iron deficiency anaemia",
+                "You have Iron deficiency anaemia"
+            ]
+        },
+        {
+            "tag": "Irritable bowel syndrome (IBS)",
+            "patterns": [
+                "excessive flatulence",
+                "cramping",
+                "lethargy",
+                "diarrhoea",
+                "bloating",
+                "abdominal pain",
+                "constipation",
+                "heartburn"
+            ],
+            "responses": [
+                "According to your symptoms you might have Irritable bowel syndrome (IBS)",
+                "I suppose you have Irritable bowel syndrome (IBS)",
+                "You have Irritable bowel syndrome (IBS)"
+            ]
+        },
+        {
+            "tag": "Irritable hip",
+            "patterns": [
+                "pain in the knee",
+                "estricted movement in hip joints",
+                "hip pain",
+                "thigh pain",
+                "slightly higher temperature",
+                "limping"
+            ],
+            "responses": [
+                "You have Irritable hip",
+                "According to your symptoms you might have Irritable hip",
+                "I suppose you have Irritable hip"
+            ]
+        },
+        {
+            "tag": "Itching",
+            "patterns": [
+                "itchy skin",
+                "itchness all over body",
+                "dry skin",
+                "persistent itch",
+                "blisters",
+                "leathery or scaly patches",
+                "cracked skin",
+                "scratch marks",
+                "Redness"
+            ],
+            "responses": [
+                "I suppose you have Itching",
+                "According to your symptoms you might have Itching",
+                "You have Itching"
+            ]
+        },
+        {
+            "tag": "Itchy bottom",
+            "patterns": [
+                "itchness in  bottom",
+                "anal bleeding",
+                "persistent anal itch",
+                "severe rectal itch",
+                "stool leakage"
+            ],
+            "responses": [
+                "You have Itchy bottom",
+                "According to your symptoms you might have Itchy bottom",
+                "I suppose you have Itchy bottom"
+            ]
+        },
+        {
+            "tag": "Kaposi's sarcoma",
+            "patterns": [
+                "uncomfortable swelling",
+                "coughing up blood",
+                "stomach pain",
+                "vomiting",
+                "nausea",
+                "chest pain"
+            ],
+            "responses": [
+                "I suppose you have Kaposi's sarcoma",
+                "According to your symptoms you might have Kaposi's sarcoma",
+                "You have Kaposi's sarcoma"
+            ]
+        },
+        {
+            "tag": "Kidney infection",
+            "patterns": [
+                "shivering",
+                "fever",
+                "painful urination",
+                "pus in kidney",
+                "pain in the back"
+            ],
+            "responses": [
+                "According to your symptoms you might have Kidney infection",
+                "You have Kidney infection",
+                "I suppose you have Kidney infection"
+            ]
+        },
+        {
+            "tag": "Kidney stones",
+            "patterns": [
+                "pain while urination",
+                "nausea",
+                "periods of intense pain",
+                "restlessness",
+                "blood in urine",
+                "gfrequent urge to urinate",
+                "persistent ache in lower back"
+            ],
+            "responses": [
+                "According to your symptoms you might have Kidney stones",
+                "I suppose you have Kidney stones",
+                "You have Kidney stones"
+            ]
+        },
+        {
+            "tag": "Sleep Apnea",
+            "patterns": [
+                "excessive sweating at night",
+                "loud snoring",
+                "loud choking",
+                "loud gasping"
+            ],
+            "responses": [
+                "You have Sleep Apnea",
+                "According to your symptoms you might have Sleep Apnea",
+                "I suppose you have Sleep Apnea"
+            ]
+        },
+        {
+            "tag": "cold",
+            "patterns": [
+                "I have a cold",
+                "Feeling chilly",
+                "I'm sneezing",
+                "Runny nose"
+            ],
+            "responses": [
+                "Sounds like a cold. Try resting and staying warm. If symptoms worsen, seek medical advice."
+            ]
+        },
+        {
+            "tag": "fever",
+            "patterns": [
+                "My body temperature is high",
+                "I'm running a fever",
+                "Feeling hot",
+                "I have a fever"
+            ],
+            "responses": [
+                "You might be having a fever. It's best to stay hydrated and consult a doctor if it persists."
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Bye",
+                "See you",
+                "Talk to you later",
+                "Goodbye"
+            ],
+            "responses": [
+                "Goodbye! Feel better soon.",
+                "Take care! Stay healthy."
+            ]
+        },
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "Hello",
+                "Hey",
+                "Good evening",
+                "What's up",
+                "Good morning"
+            ],
+            "responses": [
+                "Hello! How can I assist you today?",
+                "Hi there! What symptoms are you experiencing?"
+            ]
+        },
+        {
+            "tag": "no_match",
+            "patterns": [
+                "what",
+                "okay",
+                "idk",
+                "hmm",
+                "yes",
+                "maybe",
+                "nothing",
+                "not sure",
+                "hello there",
+                "just checking",
+                "how's it going",
+                "no",
+                "how are you"
+            ],
+            "responses": [
+                "I'm sorry, I didn't understand that. Could you describe your symptoms more clearly?",
+                "Could you please explain what you're feeling in terms of symptoms?"
+            ]
+        }
+    ]
+}
