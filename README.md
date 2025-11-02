@@ -27,6 +27,7 @@ This project is a voice-enabled chatbot developed using Natural Language Process
 
 ## 📁 Project Structure
 
+```
 voice-chatbot/
 ├── assets/ # Images like diagrams and screenshots
 ├── intents.json # Dataset with user intents, patterns, and responses
@@ -39,7 +40,7 @@ voice-chatbot/
 ├── requirements.txt # Project dependencies
 └── README.md # Project documentation
 
-
+```
 ---
 
 ## 🚀 Getting Started
