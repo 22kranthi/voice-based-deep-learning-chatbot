@@ -14,7 +14,7 @@ This project is a voice-enabled chatbot developed using Natural Language Process
 ---
 
 ## 🛠️ Technologies Used
-
+```
 - Python 3.x
 - NLTK (Natural Language Toolkit)
 - TensorFlow / Keras
@@ -22,7 +22,7 @@ This project is a voice-enabled chatbot developed using Natural Language Process
 - pyttsx3 (Text-to-Speech)
 - Streamlit (optional UI)
 - NumPy, Matplotlib
-
+```
 ---
 
 ## 📁 Project Structure
